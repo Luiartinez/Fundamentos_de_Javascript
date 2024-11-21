@@ -1,0 +1,23 @@
+[
+  { "album": "Let Go", "artista": "Paramore", "genero": "Punk", "stock": 10 },
+  {
+    "album": "Riot!",
+    "artista": "Paramore",
+    "genero": "Punk Rock",
+    "stock": 90
+  },
+  {
+    "album": "Brand New Eyes",
+    "artista": "Paramore",
+    "genero": "Alternative",
+    "stock": 78
+  },
+
+  {
+    "album": "Brand New Eyes",
+    "artista": "Paramore",
+    "genero": "Alternative",
+    "stock": 0
+  }
+]
+
